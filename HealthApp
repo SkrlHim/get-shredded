@@ -2,5 +2,5 @@ cd /home/ubuntu/health-wellness-app
 git init
 git add package.json
 git commit -m "Initial commit"
-git remote add origin https://github.com/SkrlHim/get-shredded.git
+git remote add origin https://github.com/SkrlHim/Newest.git
 git push -u origin main
